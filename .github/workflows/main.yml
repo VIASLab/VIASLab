@@ -40,6 +40,6 @@ jobs:
   uses: InvalidLenni/README.md@Template
   with:
     # <USERNAME>
-    github_user_name: VIASlab
+    github_user_name: VIASLab
     # <PATH OF THE GENERATED SVG FILE>
     svg_out_path: (https://github.com/<VIASLab>/<VIASLab>/blob/output/github-contribution-grid-snake.svg)
